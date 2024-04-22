@@ -1,6 +1,1 @@
-From github.com:dempseyucla/mytest
-   bab2c6c..bd2e7e9  main       -> origin/main
-error: Your local changes to the following files would be overwritten by merge:
-	two.c
-Please commit your changes or stash them before you merge.
-Aborting
+Already up to date.
