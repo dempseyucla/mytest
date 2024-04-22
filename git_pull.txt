@@ -1,1 +1,5 @@
-Already up to date.
+error: Your local changes to the following files would be overwritten by merge:
+	two.c
+Please commit your changes or stash them before you merge.
+Aborting
+Updating ef639ee..efa25db
