@@ -1,4 +1,6 @@
-error: Pulling is not possible because you have unmerged files.
-hint: Fix them up in the work tree, and then use 'git add/rm <file>'
-hint: as appropriate to mark resolution and make a commit.
-fatal: Exiting because of an unresolved conflict.
+From github.com:dempseyucla/mytest
+   bab2c6c..bd2e7e9  main       -> origin/main
+error: Your local changes to the following files would be overwritten by merge:
+	two.c
+Please commit your changes or stash them before you merge.
+Aborting
