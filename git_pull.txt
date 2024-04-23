@@ -1,3 +1,1 @@
-Auto-merging two.c
-CONFLICT (content): Merge conflict in two.c
-Automatic merge failed; fix conflicts and then commit the result.
+Already up to date.
