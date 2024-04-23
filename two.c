@@ -10,6 +10,10 @@ int two()
 		printf("two april 22\n");
 		printf("two april 22 111111\n");
 		printf("two april 22 22222\n");
+<<<<<<< HEAD
 
+=======
+		printf("two april 22 33333333\n");
+>>>>>>> 677ec9bfa92bd3e409ac07531d64ac2f216dd354
 }
 
