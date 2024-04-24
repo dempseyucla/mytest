@@ -11,7 +11,7 @@ int main()
 	two();
 	three();
 	printf("Updated main for github PUSH. HELLO\n");
-printf("Updated main for github PUSH. HELLO\n");
-printf("Updated main for github PUSH. HELLO\n");
-printf("Updated main for github PUSH. HELLO\n");
+printf("Updated main for github PUSH. RED\n");
+printf("Updated main for github PUSH. RED\n");
+printf("Updated main for github PUSH. RED\n");
 }
